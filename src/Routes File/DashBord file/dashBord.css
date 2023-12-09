@@ -1,0 +1,16 @@
+#selectImage {
+    text-align: center;
+    padding: 3%;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+label {
+    cursor: pointer;
+}
+
+#imageName {
+    color: green;
+}

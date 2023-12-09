@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "gender": "Female",
+        "biodataType": "Personal",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG0VzMke6Dm0NsivhQwyzbgDvSbY5B1fydg&usqp=CAU",
+        "permanentDivision": "Dhaka",
+        "age": 28,
+        "occupation": "Student",
+        "members" : "premium"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "gender": "Male",
+        "biodataType": "Professional",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHaaJIAtrnD8n1hM3YI8Z9WPSqJt-gC_8Rzg&usqp=CAU",
+        "permanentDivision": "Chattagram",
+        "age": 32,
+        "occupation": "Job"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "gender": "Female",
+        "biodataType": "Personal",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9iiKunVCQDO6qNluvsD93lprrdZ-1lgyzQ&usqp=CAU",
+        "permanentDivision": "Sylhet",
+        "age": 25,
+        "occupation": "Housewife"
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "gender": "Male",
+        "biodataType": "Professional",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkp75xGddB1sQ13jyqeIBvv9RUMculx-4onw&usqp=CAU",
+        "permanentDivision": "Barisal",
+        "age": 35,
+        "occupation": "Job"
+    },
+    {
+        "id": 5,
+        "name": "Eva",
+        "gender": "Female",
+        "biodataType": "Personal",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2UJG2uzeizFpqdhAUOUtufG1MQNyLSV-g7g&usqp=CAU",
+        "permanentDivision": "Khulna",
+        "age": 23,
+        "occupation": "Student"
+    },
+    {
+        "id": 6,
+        "name": "Frank",
+        "gender": "Male",
+        "biodataType": "Professional",
+        "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHP2U71ocT_xUxpLXrEEuXtknj2ZyuPClrg&usqp=CAU",
+        "permanentDivision": "Maymansign",
+        "age": 40,
+        "occupation": "Job"
+    }
+]
